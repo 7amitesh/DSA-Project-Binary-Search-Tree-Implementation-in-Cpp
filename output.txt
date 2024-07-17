@@ -1,0 +1,13 @@
+Inorder traversal:
+5 10 20 25 30
+Preorder traversal:
+5 10 30 25 20
+Postorder traversal:
+20 25 30 10 5
+After deleting: 30
+Inorder traversal:
+5 10 20 25
+Preorder traversal:
+5 10 25 20
+Postorder traversal:
+20 25 10 5
