@@ -1,4 +1,4 @@
-# DSA-Binary-Search-Tree
+# DSA Project: Binary Search Tree Implementation in C++
 Implementation of a Binary Search Tree with basic operations including insertion, deletion, search, and traversals in C++
 
 # DSA-Binary-Search-Tree
